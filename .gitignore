@@ -1,0 +1,6 @@
+#arquivos e pastas que devem ser ignorados
+#qualquer arquivo com essas extensoes nao serao subidos
+node_modules/
+
+*.zip 
+*.rar
